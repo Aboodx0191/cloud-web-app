@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A static Node.js application showcasing DevOps bootcamp",
   "main": "server.js",
-  {
+  
   "scripts": {
     "test": "echo \"No tests specified yet\" && exit 0"
   }
